@@ -13,8 +13,8 @@
     <li><p>nkalculator - 계산기</p></li>
 </ul>
 
-<meta content="Embed Title" property="og:title" />
-    <meta content="Site Description" property="og:description" />
-    <meta content="https://embed.com/this-is-the-site-url" property="og:url" />
-    <meta content="https://embed.com/embedimage.png" property="og:image" />
-    <meta content="#43B581" data-react-helmet="true" name="theme-color" />
+<meta content="newkini dev!" property="og:title" />
+<meta content="newkini의 사이트입니다." property="og:description" />
+<meta content="https://newkini-dev.com" property="og:url" />
+<meta content="https://avatars.githubusercontent.com/u/94734506?v=4" property="og:image" />
+<meta content="#c22a0f" data-react-helmet="true" name="theme-color" />
