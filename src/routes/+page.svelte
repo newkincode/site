@@ -1,3 +1,4 @@
+<title>메인 사이트</title>
 <h1>newkini-dev.com</h1>
 <p>제작중인 프로그램 또는 게임</p>
 <ul>
@@ -11,3 +12,9 @@
     <li><p>piefs - piefs is exe file stater</p></li>
     <li><p>nkalculator - 계산기</p></li>
 </ul>
+
+<meta content="Embed Title" property="og:title" />
+    <meta content="Site Description" property="og:description" />
+    <meta content="https://embed.com/this-is-the-site-url" property="og:url" />
+    <meta content="https://embed.com/embedimage.png" property="og:image" />
+    <meta content="#43B581" data-react-helmet="true" name="theme-color" />
