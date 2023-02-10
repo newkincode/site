@@ -16,6 +16,8 @@
     <li><p>SFG-2 - 모든걸 생산하자!</p></li>
     <li><p>city - 현실게임</p></li>
     <li><p>myClicker - 클리커게임</p></li>
+    <li><p>hapchigi  - 모들걸 합쳐서 만들자!</p></li>
+    <li><p>makingMoney - 일해서 돈벌자</p></li>
     <li><p>piefs - piefs is exe file stater</p></li>
     <li><p>nkalculator - 계산기</p></li>
 </ul>
