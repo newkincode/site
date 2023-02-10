@@ -18,6 +18,8 @@
     <li><p>myClicker - 클리커게임</p></li>
     <li><p>hapchigi  - 모들걸 합쳐서 만들자!</p></li>
     <li><p>makingMoney - 일해서 돈벌자</p></li>
-    <li><p>piefs - piefs is exe file stater</p></li>
+    <li><p>piefs(파이프스) - piefs is exe file stater</p></li>
     <li><p>nkalculator - 계산기</p></li>
+    <li><p>gg! - gitgui</p></li>
+    <li><p>codetore - code+history  버전관리프로그램</p></li>
 </ul>
