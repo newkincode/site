@@ -1,14 +1,19 @@
 {
-  "name": "newkinis-site",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "vite": "^4.1.4"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newkincode/site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newkincode/site/issues"
+  },
+  "homepage": "https://github.com/newkincode/site#readme"
 }
