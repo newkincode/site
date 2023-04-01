@@ -11,6 +11,4 @@
 <a href="https://github.com/newkincode/simple_farming_game"><button>깃허브</button></a><br>
 <a href="https://newkini.itch.io/simple-farming-game"><button>itch.io</button></a><br>
 <a href="https://discord.gg/TpJPpHwSnM"><button>디스코드</button></a><br>
-<a href="https://newkinis-file.netlify.app/202341.zip"><button>2023 만우절리소스팩</button></a><br>
-<br>
-리소스팩 적용법 : 폴더 이름을 assets으로 바꾼후 게임파일안에 main폴더에 붙여넣습니다
+<a href="https://newkinis-file.netlify.app/202341.zip"><button>2023 만우절</button></a><br>
