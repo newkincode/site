@@ -30,6 +30,7 @@ h1{
 }
 
 button{
+    font-family: 'GmarketSansMedium';
     margin: 5px;
     border-radius: 10px;
     background-color:  white;
