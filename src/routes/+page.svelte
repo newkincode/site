@@ -7,8 +7,7 @@
 </head>
 <title>메인 사이트</title>
 <h1>newkini-dev.com</h1>
-<div>
-    <p>제작중인 프로그램 또는 게임</p>
+<p>제작중인 프로그램 또는 게임</p>
 <ul>
     <li><a href="/sfg">SFG - 모든걸 농사짓자!</a></li>
     <li><a href="/sfg2">SFG2 - 모든걸 생산하자!</a></li>
@@ -25,4 +24,3 @@
     <li><p>codetore - code+history  버전관리프로그램</p></li>
     <li><p>TtsSongMaker - tts로 만든 음성을 붙이고 늘리고 음정바꾸고 등등을 해서 노래를 만드는 프로그램</p></li>
 </ul>
-</div>
