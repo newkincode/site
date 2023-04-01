@@ -12,3 +12,4 @@
 <a href="https://newkini.itch.io/simple-farming-game"><button>itch.io</button></a><br>
 <a href="https://discord.gg/TpJPpHwSnM"><button>디스코드</button></a><br>
 <a href="https://newkinis-file.netlify.app/202341.zip"><button>만우절 택스쳐</button></a><br>
+택스쳐팩 적용방법은 압축푼 폴더이름을 aseets로 바꾸고 게임폴더에 main폴더에 붙여넣습니다
