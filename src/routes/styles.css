@@ -82,17 +82,8 @@ input,
 button {
 	font-size: inherit;
 	font-family: inherit;
-	border-radius:5px;
-	margin: 10px;
-	background-color: #fff;
-	border-width:  1px;
-	border-color: black;
-	border-style: solid;
-	transition: all ease 1s 0s;
 }
-button:hover {
-	background-color: #ff3e00;
-}
+
 button:focus:not(:focus-visible) {
 	outline: none;
 }
