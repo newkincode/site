@@ -1,24 +1,19 @@
+@import '@fontsource/fira-mono';
+
 :root {
+	--font-body: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+		Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	--font-mono: 'Fira Mono', monospace;
 	--color-bg-0: rgb(202, 216, 228);
 	--color-bg-1: hsl(209, 36%, 86%);
 	--color-bg-2: hsl(224, 44%, 95%);
 	--color-theme-1: #ff3e00;
 	--color-theme-2: #4075a6;
-	--color-text: rgba(255, 255, 255, 0.7);
+	--color-text: rgba(0, 0, 0, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
+	font-family: var(--font-body);
 	color: var(--color-text);
-}
-
-@font-face {
-    font-family: 'GmarketSansMedium';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-*{
-	font-family: 'GmarketSansMedium';
 }
 
 body {
@@ -27,7 +22,12 @@ body {
 	background-attachment: fixed;
 	background-color: var(--color-bg-1);
 	background-size: 100vw 100vh;
-	background-image: url('$lib/images/back.jpg')
+	background-image: radial-gradient(
+			50% 50% at 50% 50%,
+			rgba(255, 255, 255, 0.75) 0%,
+			rgba(255, 255, 255, 0) 100%
+		),
+		linear-gradient(180deg, var(--color-bg-0) 0%, var(--color-bg-1) 15%, var(--color-bg-2) 50%);
 }
 
 h1,
@@ -60,6 +60,7 @@ h2 {
 
 pre {
 	font-size: 16px;
+	font-family: var(--font-mono);
 	background-color: rgba(255, 255, 255, 0.45);
 	border-radius: 3px;
 	box-shadow: 2px 2px 6px rgb(255 255 255 / 25%);
@@ -80,13 +81,14 @@ pre {
 input,
 button {
 	font-size: inherit;
+	font-family: inherit;
 	border-radius:5px;
 	margin: 10px;
 	background-color: #fff;
 	border-width:  1px;
 	border-color: black;
-	border-style: none;
-	transition: all ease 0.5s 0s;
+	border-style: solid;
+	transition: all ease 1s 0s;
 }
 button:hover {
 	background-color: #ff3e00;
@@ -111,13 +113,4 @@ button:focus:not(:focus-visible) {
 	position: absolute;
 	width: 1px;
 	white-space: nowrap;
-}
-
-.main{
-	border-radius: 10px;
-	background-color: rgba(255, 255, 255, 0.124);
-	backdrop-filter: blur(2px);
-}
-.main *{
-	margin: 10px;
 }
