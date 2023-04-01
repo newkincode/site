@@ -59,15 +59,14 @@
 
 	#maindib {
 		display: flex;
-		--background: rgba(255, 255, 255, 0.9);
 		width: 100%;
 		height: 50px;
-		background-color: rgba(255, 255, 255, 0.9);
 		margin-left: 10px;
 	}
 
 	nav{
-		background-color: rgba(255, 255, 255, 0.9);
+		background-color: rgba(255, 255, 255, 0.124);
+		backdrop-filter: blur(2px);
 		width: 100%;
 		height: 50px;
 	}
@@ -91,7 +90,6 @@
 		justify-content: center;
 		align-items: center;
 		list-style: none;
-		background: var(--background);
 		background-size: contain;
 	}
 
