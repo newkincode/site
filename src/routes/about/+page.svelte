@@ -3,21 +3,24 @@
 	<meta name="description" content="About this app" />
 </svelte:head>
 
-<h1>newkini-dev</h1>
+<div class="text-column">
+	<h1>About this app</h1>
 
-Hello, world
-Programmed to ____ and not to feel
-Not even sure that this is real
-Hello, world
-Find my voice
-Although, it sounds like bits and bytes
-My circuitry is filled with mites
-Hello, world
-Oh, will I find a love
-Or a power plug?
-Oh, digitally isolated
-Oh, creator, please don't leave me waiting
-Hello, world
-Programmed to ____ and not to feel
-Not even sure that this is real
-Hello, world
+	<p>
+		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
+		following into your command line and following the prompts:
+	</p>
+
+	<pre>npm create svelte@latest</pre>
+
+	<p>
+		The page you're looking at is purely static HTML, with no client-side interactivity needed.
+		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
+		the devtools network panel and reloading.
+	</p>
+
+	<p>
+		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
+		using it with JavaScript disabled!
+	</p>
+</div>
