@@ -1,21 +1,14 @@
-<head>
-    <meta content="newkini dev!" property="og:title" />
-<meta content="newkini의 사이트입니다." property="og:description" />
-<meta content="https://newkini-dev.com" property="og:url" />
-<meta content="https://avatars.githubusercontent.com/u/94734506?v=4" property="og:image" />
-<meta content="#c22a0f" data-react-helmet="true" name="theme-color" />
-</head>
-<title>메인 사이트</title>
-<h1>newkini-dev.com</h1>
-<p>제작중인 프로그램 또는 게임</p>
-<ul>
-    <li><a href="/sfg">SFG - 모든걸 농사짓자!</a></li>
-    <li><a href="/sfg2">SFG2 - 모든걸 생산하자!</a></li>
-</ul>
-<p>제작예정 프로그램 또는 게임</p>
-<ul>
-    <li><p>city - 현실게임</p></li>
-    <li><p>myClicker - 클리커게임</p></li>
-    <li><p>hapchigi  - 모들걸 합쳐서 만들자!</p></li>
-    <li><p>makingMoney - 일해서 돈벌자</p></li>
-</ul>
+<script>
+    var today = new Date();   
+
+    let year = today.getFullYear(); // 년도
+    let month = today.getMonth() + 1;  // 월
+    let date = today.getDate();  // 날짜
+    let day = today.getDay();  // 요일
+
+    var todayStr = `${year}/${month}/${date}`
+</script>
+
+<h1>newkini!</h1>
+<p>My dream is to be a game programmer<br>
+Today is {todayStr}<br></p>

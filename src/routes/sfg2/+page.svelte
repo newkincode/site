@@ -6,4 +6,4 @@
 <meta content="#c22a0f" data-react-helmet="true" name="theme-color" />
 </head>
 <h1>Simple Factory Game 다운로드!</h1>
-<a href="https://github.com/newkincode/simple_factory_game"><button>깃허브</button></a><br>
+<a class="btn btn-light" href="https://github.com/newkincode/simple_factory_game"><button>깃허브</button></a><br>
