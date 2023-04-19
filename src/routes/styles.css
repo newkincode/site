@@ -44,3 +44,10 @@ button:hover{
     background-color:  #c22a0f;
     color: #ffffff;
 }
+ul{
+    text-align: center;
+}
+::selection {
+    background-color: #c22a0f;
+    color: white;
+}
