@@ -19,4 +19,5 @@
     <li><p>myClicker - 클리커게임</p></li>
     <li><p>hapchigi  - 모들걸 합쳐서 만들자!</p></li>
     <li><p>makingMoney - 일해서 돈벌자</p></li>
+    <li><p>projectINBUFF - 인공지능 버튜버 인버프</p></li>
 </ul>
