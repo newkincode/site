@@ -14,6 +14,8 @@
     <li><a href="/sfg2">SFG2 - 모든걸 생산하자!</a></li>
     <li><a href="https://github.com/newkincode/TtsSongMaker">TSM - 음성합성 프로그램</a></li>
     <li><a href="https://github.com/newkincode/inbuff">projectINBUFF - 인공지능 버튜버 인버프</a></li>
+    <li><a href="https://github.com/newkincode/thispy">thispy - 코드를 쉽고 짧게 짤수 있게 해주는 라이브러리</a></li>
+    <li><a href="https://github.com/newkincode/allcode">allcode - 코드공유 사이트</a></li>
 </ul>
 <p>제작예정 프로그램 또는 게임</p>
 <ul>
