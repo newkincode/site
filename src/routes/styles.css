@@ -19,6 +19,10 @@ a:hover{
     color: #c22a0f;
 }
 
+p{
+    margin: 0;
+}
+
 h3{
     color: #c22a0f;
     font-weight:800;
