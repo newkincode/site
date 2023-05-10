@@ -18,7 +18,7 @@
     </nav>
 </div>
 
-<style>
+<style lang="scss">
     ul{
         display: flex;
         height: 10px;
