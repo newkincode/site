@@ -12,3 +12,4 @@
 <h1>newkini!</h1>
 <p>My dream is to be a game programmer<br>
 Today is {todayStr}<br></p>
+<a href="https://www.youtube.com/channel/UCa-gBibeaPPiNYl6t_3GOIw?sub_confirmation=1"><button>please subscribe to my youtube channel</button></a>
