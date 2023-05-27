@@ -11,5 +11,6 @@
 <a class="btn btn-light" href="https://github.com/newkincode/simple_farming_game"><button>깃허브</button></a><br>
 <a class="btn btn-light" href="https://newkini.itch.io/simple-farming-game"><button>itch.io</button></a><br>
 <a class="btn btn-light" href="https://discord.gg/TpJPpHwSnM"><button>디스코드</button></a><br>
+<a class="btn btn-light" href="https://sfg.newkini-dev.com"><button>공식 사이트</button></a><br>
 <a class="btn btn-light" href="https://newkinis-file.netlify.app/202341.zip"><button>만우절 택스쳐</button></a><br>
 택스쳐팩 적용방법은 압축푼 폴더이름을 aseets로 바꾸고 게임폴더에 main폴더에 붙여넣습니다
