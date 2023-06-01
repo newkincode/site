@@ -8,10 +8,11 @@
 </head>
 
 <h1>newkini-dev.com</h1>
-<p>제작중인 프로그램 또는 게임</p>
+<div id="ul">
+    <p>제작중인 프로그램 또는 게임</p>
 <ul>
     <li><a href="/sfg">SFG - 모든걸 농사짓자!</a></li>
-    <li><a href="/sfg2">SFG2 - 모든걸 생산하자!</a></li>
+    <li><a href="/perfactory">perfactory - perfect + factory(이름추천 : laugh of loud) 모든걸 생산하자!</a></li>
     <li><a href="https://github.com/newkincode/TtsSongMaker">TSM - 음성합성 프로그램</a></li>
     <li><a href="https://github.com/newkincode/inbuff">projectINBUFF - 인공지능 버튜버 인버프</a></li>
     <li><a href="https://github.com/newkincode/thispy">thispy - 코드를 쉽고 짧게 짤수 있게 해주는 라이브러리</a></li>
@@ -26,3 +27,5 @@
     <li><p>makingMoney - 일해서 돈벌자</p></li>
     
 </ul>
+
+</div>

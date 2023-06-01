@@ -57,3 +57,7 @@ ul{
     background-color: #c22a0f;
     color: white;
 }
+li{
+    list-style: none;
+    margin: 4px 0;
+}
