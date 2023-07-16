@@ -12,6 +12,16 @@
         });
     });
 </script>
+
+<svelte:head>
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+        new Crate({
+            server: '1111933622543470643', // newkini`s project
+            channel: '1125051062240419901' // #chat
+        })
+    </script>
+</svelte:head>
+
 <Header />
 
 <div id="mouse-out"></div>
