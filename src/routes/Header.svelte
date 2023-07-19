@@ -6,13 +6,16 @@
     <nav>
         <ul>
             <li>
-                <h3>newkini</h3>
+                <h3>NKI</h3>
             </li>
             <li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
                 <a href="/">Home</a>
             </li>
             <li aria-current={$page.url.pathname === '/makegame' ? 'page' : undefined}>
                 <a href="/makegame">MakeGame</a>
+            </li>
+            <li aria-current={$page.url.pathname === '/logo' ? 'page' : undefined}>
+                <a href="/logo">Logo</a>
             </li>
         </ul>
     </nav>

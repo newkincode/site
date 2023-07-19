@@ -21,7 +21,6 @@
 
 <div id="mouse-out"></div>
 
-
 <slot />
 
 <style>
